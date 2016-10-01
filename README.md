@@ -17,7 +17,7 @@ The Station would rotate approximately at 1.5 rpm to achieve a centrifugal accel
 
 ## Bridge design
 
-The [https://en.wikipedia.org/wiki/Cable-stayed_bridge](cable-stayed bridge) design is based on the [https://en.wikipedia.org/wiki/Ada_Bridge](Ada Bridge) in Serbia.
+The [cable-stayed bridge](https://en.wikipedia.org/wiki/Cable-stayed_bridge) design is based on the [Ada Bridge](https://en.wikipedia.org/wiki/Ada_Bridge) in Serbia.
 
 ## Materials
 
